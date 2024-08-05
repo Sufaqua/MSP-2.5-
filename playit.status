@@ -1,455 +1,1164 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722818633771 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722821491904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818636839 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821494977 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818639907 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821498045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818642970 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821501111 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818646048 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821504174 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818649117 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821507259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818652182 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821510330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818655257 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821513408 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818658316 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821516470 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818661382 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821519563 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818664437 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821522629 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818667495 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821525691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818670551 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821528748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818673605 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821531816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818676668 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821534879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818679735 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821537939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818682803 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821541001 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818685858 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821544062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818688916 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821547133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818691980 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821550207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818695038 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821553268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818698106 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821556335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818701170 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821559394 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818704226 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821562467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818707288 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821565528 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818710349 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821568604 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818713412 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821571667 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818716466 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821574730 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818719526 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821577788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818722591 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821580861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818725653 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821583932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818728708 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821586993 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818731787 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821590059 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818734842 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821593125 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818737900 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821596199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818740956 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821599269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818744018 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821602338 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818747073 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821605407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818750139 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821608477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818753198 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821611544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818756256 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821614605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818759314 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821617665 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818762376 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821620729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818765432 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821623803 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818768495 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821626867 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818771566 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821629935 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818774630 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821633015 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818777692 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821636165 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818780751 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821639232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818783813 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821642301 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818786873 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821645377 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818789938 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821648467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818792992 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821651535 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818796054 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821654605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818799114 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821657677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818802180 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821660734 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818805262 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821663816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818808338 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821666881 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818811414 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821669941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818814481 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821673018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818817550 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821676077 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818820621 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821679138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818823684 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821682210 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818826748 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821685276 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818829810 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821688339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818832871 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821691409 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818835937 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821694496 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818839005 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821697604 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818842064 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821700666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818845128 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821703732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818848182 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821706801 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818851241 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821709865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818854312 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821712934 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818857373 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821716001 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818860447 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821719061 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818863544 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821722123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818866600 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821725180 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818869657 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821728237 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818872721 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821731303 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818875789 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821734392 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818878854 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821737463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818881913 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821740531 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818884969 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821743596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818888057 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821746660 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818891121 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821749717 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818894177 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821752780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818897233 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821755850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818900292 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821758925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818903348 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821761992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818906524 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821765065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722818909604 tunnel running, 1 tunnels registered
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821768147 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821771212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821774273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821777341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821780438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821783502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821786566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821789626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821792688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821795755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821798828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821801901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821804979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821808040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821811099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821814179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821817238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821820307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821823373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821826458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821829535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821832606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821835671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821838741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821841815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821844878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821847941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821851000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821854079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821857156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821860217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821863275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821866350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821869413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821872477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821875543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821878608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821881667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821884726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821887797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821890867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821893926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821896989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821900099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821903165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821906231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821909294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821912358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821915415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821918480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821921541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821924612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821927686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821930744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821933802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821936877 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821939945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821943016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821946092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821949177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821952255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821955326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821958414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821961484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821964545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821967612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821970701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821973772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821976842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821979945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821983021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821986088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821989164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821992236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821995300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722821998364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822001436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822004534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822007600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822010688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822013762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822016826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822019889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822022960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822026039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822029116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822032185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822035256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822038322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822041394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822044464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822047537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822050596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822053653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822056723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822059806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822062867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822065928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822068991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822072056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822075124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822078187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822081246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722822084305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+audio-exposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+computers-triangle.gl.at.ply.gg:3482 => 127.0.0.1:3482 (minecraft-bedrock)
